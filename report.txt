@@ -1,0 +1,18 @@
+========= TEST EXECUTION REPORT =========
+
+[2025-11-16T04:58:57.429001600] Filtered categories: [BOOKS, COMPUTERS, ELECTRONICS, APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+[2025-11-16T04:58:59.052413100] Selected category page title: Demo Web Shop. Jewelry
+[2025-11-16T04:58:59.330971900] Products in category: 10
+[2025-11-16T04:59:00.717696200] Selected product: Black & White Diamond Heart | 130.00 | https://demowebshop.tricentis.com/black-white-diamond-heart
+[2025-11-16T04:59:11.437493300] Selected product: Create Your Own Jewelry | 100.00 | https://demowebshop.tricentis.com/create-it-yourself-jewelry
+[2025-11-16T04:59:32.208875600] Skipped: Add to Cart Not Available for Create Your Own Jewelry
+[2025-11-16T04:59:33.505638200] Cart rows found: 1
+[2025-11-16T04:59:33.601233400] Skipped product not added: Create Your Own Jewelry
+[2025-11-16T04:59:33.603247300] Cart validation completed. Total calculated: 130.0
+[2025-11-16T04:59:36.575761500] Positive registration attempted with email: john.doe@example.com
+[2025-11-16T04:59:38.504667300] Negative registration error captured: First name is required.
+[2025-11-16T04:59:38.504667300] E2E test flow completed successfully (stopped before placing order).
+
+========================================
+Overall Test Result: PASSED
+========================================
